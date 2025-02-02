@@ -10,36 +10,44 @@
 info.yml:
 ```yaml
 project:
-  name: 'PSG2-2425-LX-XY'
+  name: 'PSG2-2425-GX-XY'
   owner: 'LX'
   teamId: 'XY'
   identities: {}
   notifications:
-    email: 'member1@alum.us.es,member2@alum.us.es'
+    email: 'josemgarcia@us.es,japarejo@us.es,aruiz@us.es,cmuller@us.es,macuna@us.es,amarquez6@us.es'
   members:
     member1:
-      name: 'Manuel'
-      surname: 'Otero' 
-      githubUsername: 'motero2k'
+      name: 'José María'
+      surname: 'García' 
+      githubUsername: 'josemgarcia'
     member2:
-      name: 'Javi'
-      surname: 'Fernandez' 
-      githubUsername: 'JaviFdez7'
+      name: 'Jose Antonio'
+      surname: 'Parejo'
+      githubUsername: 'japarejo'
     member3:
-      name: 'XXXXXXXXXXX'
-      surname: 'XXXXXXXXXXX' 
-      githubUsername: 'XXXXXXXXXXX'
+      name: 'Antonio'
+      surname: 'Ruiz'
+      githubUsername: 'antonioruizcortes'
     member4:
-      name: 'XXXXXXXXXXX'
-      surname: 'XXXXXXXXXXX' 
-      githubUsername: 'XXXXXXXXXXX'
+      name: 'Carlos'
+      surname: 'Müller'
+      githubUsername: 'cmullercejas'
+    member5:
+      name: 'Lola'
+      surname: 'De Acuña'
+      githubUsername: 'loladacuna'
+    member6:
+      name: 'Alfonso'
+      surname: 'Márquez'
+      githubUsername: 'alfedu'
 ```
 
 - Rellenar las X,Y.
-    > Por ejemplo, el grupo 54 del Laboratorio 2:
+    > Por ejemplo, el grupo 54 del Laboratorio 5:
     >```yaml
-    >name: 'PSG2-2425-L2-54'
-    >owner: 'L2'
+    >name: 'PSG2-2425-G5-54'
+    >owner: 'L5'
     >teamId: '54'
     >```
 
