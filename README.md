@@ -71,12 +71,13 @@ project:
   - Renombra la pipeline `Review/QA` a `In Review` (case sensitive).
 - Como resultado tendremos un tablero donde las columnas principales que utilizaremos serán: `Todo, In Progress, In Review, Done` (case sensitive).
 
-## 3. Unir el proyecto a la asignatura auditada por bluejay
+## 3. Unir el proyecto a la asignatura auditada por Bluejay
 
 - Accede a [join.bluejay.governify.io](https://join.bluejay.governify.io).
 - Añade la **URL del repositorio** de GitHub.
 - Click en **CHECK**. Si ha dado error revisa la [sintaxis](https://www.yamllint.com/) del info.yml.
 - **Selecciona la clase** a la que te quieres unir (PSG2-2425) y especifica el código que te dará tu profesor.
 - Click en **JOIN**.
+- En caso de que haya algún otro problema al configurar Bluejay, el equipo de soporte está disponible en [un canal de Gitter dedicado](https://app.gitter.im/#/room/!VTAnLfNgxrEdydQgWd:gitter.im).
 
 
